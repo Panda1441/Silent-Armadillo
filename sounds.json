@@ -1,0 +1,79 @@
+{
+  "entity.armadillo.ambient": {
+    "replace": true,
+    "sounds": [
+      { "name": "entity/armadillo/ambient1", "volume": 0.15 },
+      { "name": "entity/armadillo/ambient2", "volume": 0.15 },
+      { "name": "entity/armadillo/ambient3", "volume": 0.15 }
+    ]
+  },
+  "entity.armadillo.brush": {
+    "replace": true,
+    "sounds": [
+      { "name": "entity/armadillo/brush", "volume": 0.15 }
+    ]
+  },
+  "entity.armadillo.death": {
+    "replace": true,
+    "sounds": [
+      { "name": "entity/armadillo/death", "volume": 0.15 }
+    ]
+  },
+  "entity.armadillo.eat": {
+    "replace": true,
+    "sounds": [
+      { "name": "entity/armadillo/eat", "volume": 0.15 }
+    ]
+  },
+  "entity.armadillo.hurt": {
+    "replace": true,
+    "sounds": [
+      { "name": "entity/armadillo/hurt1", "volume": 0.15 },
+      { "name": "entity/armadillo/hurt2", "volume": 0.15 }
+    ]
+  },
+  "entity.armadillo.hurt_reduced": {
+    "replace": true,
+    "sounds": [
+      { "name": "entity/armadillo/hurt_reduced", "volume": 0.15 }
+    ]
+  },
+  "entity.armadillo.land": {
+    "replace": true,
+    "sounds": [
+      { "name": "entity/armadillo/land", "volume": 0.15 }
+    ]
+  },
+  "entity.armadillo.roll": {
+    "replace": true,
+    "sounds": [
+      { "name": "entity/armadillo/roll", "volume": 0.15 }
+    ]
+  },
+  "entity.armadillo.scute_drop": {
+    "replace": true,
+    "sounds": [
+      { "name": "entity/armadillo/scute_drop", "volume": 0.15 }
+    ]
+  },
+  "entity.armadillo.step": {
+    "replace": true,
+    "sounds": [
+      { "name": "entity/armadillo/step1", "volume": 0.15 },
+      { "name": "entity/armadillo/step2", "volume": 0.15 },
+      { "name": "entity/armadillo/step3", "volume": 0.15 }
+    ]
+  },
+  "entity.armadillo.unroll_finish": {
+    "replace": true,
+    "sounds": [
+      { "name": "entity/armadillo/unroll_finish", "volume": 0.15 }
+    ]
+  },
+  "entity.armadillo.unroll_start": {
+    "replace": true,
+    "sounds": [
+      { "name": "entity/armadillo/unroll_start", "volume": 0.15 }
+    ]
+  }
+}
